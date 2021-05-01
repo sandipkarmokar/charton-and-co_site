@@ -204,10 +204,11 @@
           padding-top: .5rem;
           text-align: left; }
           #section_4 .testimonials .testimonial .testimonial_info .testimonial_title h3 {
-            font-size: 1rem;
-            font-weight: 400; }
+            font-size: .7rem;
+            font-weight: 400;
+            padding:left:.5rem}
           #section_4 .testimonials .testimonial .testimonial_info .testimonial_title p {
-            font-size: .6rem;
+            font-size: .5rem;
             font-weight: 200;
             padding-top: .3rem; }
       #section_4 .testimonials .testimonial .testimonial_message {
